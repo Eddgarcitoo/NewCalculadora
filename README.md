@@ -3,5 +3,5 @@ esta calculadora cuentta con las operaciones basicas de dumar, restar, multiplic
 cuanta con apartado grafico sencillo en el que se puede apreciar por botones las operaciones funcionales y tambien se observal los recuadron se introducen los datos de entrada.
 tambien se añadio una funcion en la que solo se puede usar el teclado numerico para no quenerar ningun problema al momento de ejecura cualquier operacion, 
 cuenta con la opcion de no poder dividir entre cero. si se intenta hacerlo, el sistema dara una opcion que dice "No se puede dividir entre 0"
-esta hecho a base de kotlin en android studio. lo que facilit hacer esto con mayor fluides al momento de poner operaciones. 
+esta hecho a base de kotlin en android studio. lo que facilito hacer esto con mayor fluides al momento de poner operaciones. 
 
